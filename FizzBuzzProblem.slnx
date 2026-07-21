@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FizzBuzzProblem/FizzBuzzProblem.csproj" />
+  <Project Path="FizzBuzzUniteTesting/FizzBuzzUniteTesting.csproj" />
+</Solution>

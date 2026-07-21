@@ -1,0 +1,14 @@
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net10.0\FizzBuzzProblem.exe
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net10.0\FizzBuzzProblem.deps.json
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net10.0\FizzBuzzProblem.runtimeconfig.json
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net10.0\FizzBuzzProblem.dll
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\net10.0\FizzBuzzProblem.pdb
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.AssemblyInfoInputs.cache
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.AssemblyInfo.cs
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.csproj.CoreCompileInputs.cache
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.dll
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\refint\FizzBuzzProblem.dll
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.pdb
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.genruntimeconfig.cache
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\ref\FizzBuzzProblem.dll
