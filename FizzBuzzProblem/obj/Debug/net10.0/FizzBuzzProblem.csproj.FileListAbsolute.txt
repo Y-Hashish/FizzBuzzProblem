@@ -12,3 +12,4 @@ C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj
 C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.pdb
 C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.genruntimeconfig.cache
 C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\ref\FizzBuzzProblem.dll
+C:\Users\emady\OneDrive\Desktop\dot net test\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\net10.0\FizzBuzzProblem.sourcelink.json
